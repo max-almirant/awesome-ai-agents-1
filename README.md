@@ -323,6 +323,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OpenInterpreter/aifs">github</a></p>
 </div>
 
+### Almirant
+<div><a href="https://almirant.ai"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+<p>🤖 AI Agents | ⚙️ Development Frameworks</p>
+
+<p>Almirant is an operating system for human-agent teams. Persistent context across sessions, shared memory between agents, and a structured task lifecycle (plan → implement → review → deploy) with human approval gates</p>
+
+<p><a href="https://almirant.ai">website</a> | <a href="https://www.npmjs.com/package/almirant">npm</a></p>
+</div>
+
 ### AIOS
 <div><a href="https://github.com/agiresearch/AIOS"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/agiresearch/AIOS"><img src="https://img.shields.io/github/stars/agiresearch/AIOS?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 4,439 stars (Updated: 2025-07-30)</p>
